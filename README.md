@@ -1,9 +1,5 @@
-# 2023 Fake or Real : 생성 이미지 판별 경진대회
-## [이미지] 생성 이미지 판별
 
-### 코드 구조
-
-```
+``
 ${PROJECT}
 ├── config/
 │   ├── train_config.yaml
